@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+
+## Народная поговорка
+
+> Когда я ем, я глух и нем
 Use the left arrow to go back!
